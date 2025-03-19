@@ -23,6 +23,8 @@ Features 🚀
 
 🔒 Security Against Bot Attacks – Arcjet is used to block multiple bot requests.
 
+⚠️ Global Error Handling: Input validation and middleware integration.
+
 📧 Email Notifications – NodeMailer sends alerts before subscription deadlines, renewals, and cancellations.
 
 🛠 Built with:
