@@ -28,9 +28,15 @@ Features 🚀
 🛠 Built with:
 
 Express.js
+
 MongoDB 
+
 Mongoose 
+
 JWT (JSON Web Tokens) 
+
 Arcjet 
+
 Upstash 
+
 NodeMailer
