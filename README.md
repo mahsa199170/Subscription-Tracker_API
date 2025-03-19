@@ -9,7 +9,7 @@ This API includes JWT authentication, security enhancements, automated workflows
 
 #Automated Workflow🤖
 
-The automation workflow begins when a user creates or submits a new subscription. The system automatically schedules background tasks, such as sending email reminders before subscription deadlines. This ensures users stay informed and never miss a renewal.
+The automation workflow begins when a user creates a new subscription. The system automatically schedules background tasks, such as sending email reminders before subscription deadlines. This ensures users stay informed and never miss a renewal.
 
 Advanced Security
 
